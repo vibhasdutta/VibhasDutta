@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vibhas Dutta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> I'm Vibhas Dutta</h1>
 <h3 align="center">A passionate Cybersecurity Student and Developer form India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhasdutta&label=Profile%20views&color=ff9500&style=flat-square" alt="vibhasdutta" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vibhasdutta](https://github.com/vibhasdutta)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" height="30" /> I’m currently working on [PC-ASSISTANT](https://github.com/vibhasdutta/PC-ASSISTANT)
 
-- 💬 Ask me about **Java ,c and Cybersecurity**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> I’m looking for help with [PC-ASSISTANT](https://github.com/vibhasdutta/PC-ASSISTANT)
 
-- 📫 How to reach me **vibhasdutta11@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="30" height="30" /> All of my projects are available at [https://github.com/vibhasdutta](https://github.com/vibhasdutta)
 
-- ⚡ Fun fact **I am 3D artist also ✌️**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="30" height="30" /> Ask me about **Java ,c and Cybersecurity**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="30" height="30" /> How to reach me **vibhasdutta11@gmail.com**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" /> Fun fact **I am 3D artist also <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="25" height="25" />**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
