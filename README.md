@@ -2,12 +2,10 @@
 <h3 align="center">A passionate Cybersecurity Student and Developer form India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhasdutta&label=Profile%20views&color=ff9500&style=flat-square" alt="vibhasdutta" /> </p>
-<!--
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" height="30" /> I’m currently working on [PC-ASSISTANT](https://github.com/vibhasdutta/PC-ASSISTANT) -->
-<!--
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> I’m looking for help with [PC-ASSISTANT](https://github.com/vibhasdutta/PC-ASSISTANT) -->
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="30" height="30" /> All of my projects are available at [https://github.com/vibhasdutta](https://github.com/vibhasdutta)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" height="30" /> I’m currently working on [TERMICHAT](https://github.com/vibhasdutta/TERMICHAT)
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="30" height="30" /> All of my projects are available at [PROJECTS](https://github.com/vibhasdutta?tab=repositories)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="30" height="30" /> Ask me about **Java ,c and Cybersecurity**
 
